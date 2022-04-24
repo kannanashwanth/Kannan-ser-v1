@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/kannanashwanth/Kannan-ser-v1/blob/master/media/kanan.jpg" alt="KICHU SER" />
+  <img src="./media/kanan.jpg" alt="KICHU SER" />
 </h1>
   
 ## Setup
@@ -18,7 +18,7 @@
   click to fork the git into your account
  Click [FORK](https://github.com/kannanashwanth/Kannan-ser-v1/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL copy this url and change Chunkindepadayali with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/kannanashwanth/Kannan-ser-v1 copy this url and change Chunkindepadayali with your github username and click go<br>
 ## 1. join what's app [bot] group 
 <br>
 <a href="https://chat.whatsapp.com/JPh6rmkqbuo2wdAXvKd7Jn"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-red?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
