@@ -1,6 +1,7 @@
 /* codded by afnanplk
 modified by KTB
 */
+//re-coded by Kichu ©2022 Kichu.//
 
 const { Sequelize } = require('sequelize');
 const fs = require('fs');
