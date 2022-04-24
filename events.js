@@ -1,9 +1,10 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2022 Kichu.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
+https://instagram.com/kichu_nrd?igshid=YmMyMTA2M2Y=
 
-WhatsAsena - Yusuf Usta
+Kichu
 */
 
 // Komutları burada tutacağız.
