@@ -1,3 +1,7 @@
+/*Copyrights (C)2022 Kichu.
+https://instagram.com/kichu_nrd?igshid=YmMyMTA2M2Y=
+Follow*/
+
 const Config = require('./config');
 const fs = require('fs');
 const chalk = require('chalk');
