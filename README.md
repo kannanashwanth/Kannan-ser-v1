@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src=".kichu/kannan" alt="LIZA MWOL" />
+  <img src=".kichu/kanan.jpg" alt="LIZA MWOL" />
 </h1>
   
 ## Setup
