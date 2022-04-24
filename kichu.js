@@ -1,7 +1,7 @@
 /* codded by afnanplk
 modified by KTB
-*/
-//re-coded by Kichu ©2022 Kichu.//
+re-coded by Kichu ©2022 Kichu.
+https://instagram.com/kichu_nrd?igshid=YmMyMTA2M2Y=*/
 
 const { Sequelize } = require('sequelize');
 const fs = require('fs');
