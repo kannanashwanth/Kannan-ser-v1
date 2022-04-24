@@ -1,7 +1,8 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2022 Kichu.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhatsAsena - Yusuf Usta 
+https://instagram.com/kichu_nrd?igshid=YmMyMTA2M2Y=
+Kichu 
 */
 
 const fs = require("fs");
@@ -9,13 +10,13 @@ const path = require("path");
 const events = require("./events");
 
 const raganork = require("./raganork");
-const liza = require('./liza');
+const liza = require('./kichu');
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./julie/');
+const {Message, StringSession, Image, Video} = require('./Kichu/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -141,7 +142,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅️Liza Mwol working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
+            chalk.green.bold('✅️Kannan Ser working ' + config.WORKTYPE + ' Now '));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
