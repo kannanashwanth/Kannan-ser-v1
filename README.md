@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/kannanashwanth/Kannan-ser-v1/blob/master/kichu/kanan.jpg" alt="KICHU SER" />
+  <img src="https://github.com/kannanashwanth/Kannan-ser-v1/blob/master/media/kanan.jpg" alt="KICHU SER" />
 </h1>
   
 ## Setup
