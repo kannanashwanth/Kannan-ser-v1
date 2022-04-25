@@ -1,5 +1,6 @@
 // codded by afnanplk and
-// added chunkindepadayali 
+// added chunkindepadayali and 
+// added by kichu 
 
 const config = require('../../config');
 const { DataTypes } = require('sequelize');
